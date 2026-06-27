@@ -10,9 +10,9 @@ A shared treasury wallet requiring **M-of-N owner signatures** before any transa
 
 | Name | Roll Number |
 |------|-------------|
-| Member 1 | XXXXXXXXX |
-| Member 2 | XXXXXXXXX |
-| Member 3 | XXXXXXXXX |
+| Arjun Dhamdhere | 240005011 |
+| kartik budhani | 240005022 |
+| Rishan gobse | 240008023 |
 
 > ⚠️ **Update the table above with your actual team member names and roll numbers.**
 
