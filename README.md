@@ -14,7 +14,7 @@ A shared treasury wallet requiring **M-of-N owner signatures** before any transa
 | kartik budhani | 240005022 |
 | Rishan gobse | 240008023 |
 
-> ⚠️ **Update the table above with your actual team member names and roll numbers.**
+
 
 ---
 
