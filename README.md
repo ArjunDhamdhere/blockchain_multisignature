@@ -1,4 +1,4 @@
-# 🔐 Multi-Signature Wallet (MultiSig Vault)
+# Multi-Signature Wallet (MultiSig Vault)
 
 **CS 218 — Programmable & Interoperable Blockchain | Project 10**
 
@@ -6,7 +6,7 @@ A shared treasury wallet requiring **M-of-N owner signatures** before any transa
 
 ---
 
-## 👥 Team: Krack-Jack
+## Team: Krack-Jack
 
 | Name | Roll Number |
 |------|-------------|
@@ -31,7 +31,7 @@ A shared treasury wallet requiring **M-of-N owner signatures** before any transa
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 contracts/
@@ -56,7 +56,7 @@ frontend/
 
 ---
 
-## 🚀 Setup & Installation
+## Setup & Installation
 
 ### Prerequisites
 
@@ -134,7 +134,7 @@ After deploying, open `frontend/index.html` in your browser. The deployment scri
 
 ---
 
-## 🔒 Security Features
+## Security Features
 
 1. **ReentrancyGuard** (OpenZeppelin) — Applied to `executeTransaction()` to prevent reentrancy attacks during external calls
 2. **Checks-Effects-Interactions (CEI)** — Transaction marked as `executed = true` **before** the external `.call()`
@@ -144,7 +144,7 @@ After deploying, open `frontend/index.html` in your browser. The deployment scri
 
 ---
 
-## ⛽ Gas Optimization
+## Gas Optimization
 
 See [gas-report.md](./gas-report.md) for the full gas report and before/after optimization analysis.
 
@@ -157,7 +157,7 @@ See [gas-report.md](./gas-report.md) for the full gas report and before/after op
 
 ---
 
-## 🧪 Test Coverage
+##  Test Coverage
 
 The test suite includes **39 tests** covering:
 
@@ -174,6 +174,6 @@ The test suite includes **39 tests** covering:
 
 ---
 
-## 📝 License
+##  License
 
 MIT
